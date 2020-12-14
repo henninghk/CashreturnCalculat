@@ -1,0 +1,13 @@
+C:\Users\henni\Downloads\CashReturnOOP-main\CashReturnOOP-main\CashReturnCalculation\bin\Debug\netcoreapp3.1\CashReturnCalculation.exe
+C:\Users\henni\Downloads\CashReturnOOP-main\CashReturnOOP-main\CashReturnCalculation\bin\Debug\netcoreapp3.1\CashReturnCalculation.deps.json
+C:\Users\henni\Downloads\CashReturnOOP-main\CashReturnOOP-main\CashReturnCalculation\bin\Debug\netcoreapp3.1\CashReturnCalculation.runtimeconfig.json
+C:\Users\henni\Downloads\CashReturnOOP-main\CashReturnOOP-main\CashReturnCalculation\bin\Debug\netcoreapp3.1\CashReturnCalculation.runtimeconfig.dev.json
+C:\Users\henni\Downloads\CashReturnOOP-main\CashReturnOOP-main\CashReturnCalculation\bin\Debug\netcoreapp3.1\CashReturnCalculation.dll
+C:\Users\henni\Downloads\CashReturnOOP-main\CashReturnOOP-main\CashReturnCalculation\bin\Debug\netcoreapp3.1\CashReturnCalculation.pdb
+C:\Users\henni\Downloads\CashReturnOOP-main\CashReturnOOP-main\CashReturnCalculation\obj\Debug\netcoreapp3.1\CashReturnCalculation.csprojAssemblyReference.cache
+C:\Users\henni\Downloads\CashReturnOOP-main\CashReturnOOP-main\CashReturnCalculation\obj\Debug\netcoreapp3.1\CashReturnCalculation.AssemblyInfoInputs.cache
+C:\Users\henni\Downloads\CashReturnOOP-main\CashReturnOOP-main\CashReturnCalculation\obj\Debug\netcoreapp3.1\CashReturnCalculation.AssemblyInfo.cs
+C:\Users\henni\Downloads\CashReturnOOP-main\CashReturnOOP-main\CashReturnCalculation\obj\Debug\netcoreapp3.1\CashReturnCalculation.csproj.CoreCompileInputs.cache
+C:\Users\henni\Downloads\CashReturnOOP-main\CashReturnOOP-main\CashReturnCalculation\obj\Debug\netcoreapp3.1\CashReturnCalculation.dll
+C:\Users\henni\Downloads\CashReturnOOP-main\CashReturnOOP-main\CashReturnCalculation\obj\Debug\netcoreapp3.1\CashReturnCalculation.pdb
+C:\Users\henni\Downloads\CashReturnOOP-main\CashReturnOOP-main\CashReturnCalculation\obj\Debug\netcoreapp3.1\CashReturnCalculation.genruntimeconfig.cache
